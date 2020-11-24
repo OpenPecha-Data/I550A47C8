@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W29498
   title: ངག་རྩོམ་ནོར་བུའི་གཏེར་འབུམ།
-  volume: ''
+  volume:
+    6d89cabfd88f446ba829ea874e73f453:
+      image_group_id: I1KG12366
+      title: Volume 1 of ngag rtsom nor bu'i gter 'bum/
+      volume_number: 1
+      total_pages: 420
   author: ''
+ebook_metadata:
+  title: ངག་རྩོམ་ནོར་བུའི་གཏེར་འབུམ།
+  author: ''
+  sku: P007936
+  cover: cover.jpg
+  layers:
+  - pagination
